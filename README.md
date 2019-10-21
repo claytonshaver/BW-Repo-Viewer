@@ -34,3 +34,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - Add placeholders for no data (no commits in last 24 hours)
 - Sorting and filtering
 - Pagination for any data fetching greater than 100 items
+
+## Areas I would have liked to have spent more time on
+
+- A robust test suite
+- Validating the number of the times the parent and also the children components rerendered
+- Setting up middleware pipline for data fetching
