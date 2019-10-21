@@ -41,6 +41,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Areas I would have liked to have spent more time on
 
-- A robust test suite
+- A more robust test suite
 - Validating the number of the times the parent and also the children components rerendered
 - Setting up middleware pipline for data fetching
